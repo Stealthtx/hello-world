@@ -1,2 +1,3 @@
 # hello-world
-My very first repository
+My first repository
+I am currently pursuing a new Cyber Security position.
